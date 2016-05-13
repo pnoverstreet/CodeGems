@@ -1,4 +1,4 @@
 CodeGems
 ========
 
-Playing with Android
+Playing with Android stuff
